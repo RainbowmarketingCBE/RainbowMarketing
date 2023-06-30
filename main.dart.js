@@ -60888,7 +60888,7 @@ A.X_.prototype={
 OF(a){$.a9I().a.set(this,a)}}
 A.a8Z.prototype={
 $1(a){var s=null,r=t.S
-return A.a([A.aaQ(A.ed("Mugi",s,s,s),0,r),A.aaQ(A.ed("Chicoo",s,s,s),1,r),A.aaQ(A.ed("KS",s,s,s),2,r)],t.Cj)},
+return A.a([A.aaQ(A.ed("Mugi",s,s,s),0,r),A.aaQ(A.ed("Chiccoo",s,s,s),1,r),A.aaQ(A.ed("KS",s,s,s),2,r)],t.Cj)},
 $S:349}
 A.a9_.prototype={
 $1(a){var s
@@ -60969,7 +60969,7 @@ A.Cs.prototype={
 N(a){var s=null,r="assets/images/logo.png",q="Rainbow Marketing",p=t.E,o=A.oh(A.a([A.aaw(r,50,50),B.yf],p),B.b9,B.af,B.bk),n=A.oh(A.a([A.aaw(r,50,50),A.aal(A.jj(A.ed(q,A.f3(s,s,B.k,s,s,s,s,s,s,s,s,28,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s))],p),B.b9,B.af,B.bk),m=A.oh(A.a([A.aaw(r,50,50),A.aal(A.jj(A.ed(q,A.f3(s,s,B.k,s,s,s,s,s,s,s,s,28,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s))],p),B.b9,B.af,B.bk)
 return A.Zs(A.acZ(A.a([A.jj(A.asj(a),s,s),B.Fc],p),new A.U(4282137660),!0,new A.hD(o,m,n,s)),B.li,A.vk(A.mZ(A.a([new A.Co(s),new A.zw(s),new A.Ce(s)],p),B.af),s))}}
 A.mV.prototype={
-N(b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="assets/images/chocoOne.jpg",a3="assets/images/choco2.jpg",a4="assets/images/choco3.jpg",a5="assets/images/choco4.jpg",a6="assets/images/choco5.jpg",a7="assets/images/choco6.jpg",a8="assets/images/choco7.jpg",a9="assets/images/choco8.jpg",b0="assets/images/c1combine.jpg",b1="assets/images/c2combine.jpg",b2="assets/images/c3combine.jpg",b3="assets/images/c4combine.jpg",b4=A.ac6("CHICOO"),b5=t.w,b6=b7.C(b5).f
+N(b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="assets/images/chocoOne.jpg",a3="assets/images/choco2.jpg",a4="assets/images/choco3.jpg",a5="assets/images/choco4.jpg",a6="assets/images/choco5.jpg",a7="assets/images/choco6.jpg",a8="assets/images/choco7.jpg",a9="assets/images/choco8.jpg",b0="assets/images/c1combine.jpg",b1="assets/images/c2combine.jpg",b2="assets/images/c3combine.jpg",b3="assets/images/c4combine.jpg",b4=A.ac6("CHICCOO"),b5=t.w,b6=b7.C(b5).f
 b6=A.a5(a1,a1,a1,a1,new A.a2(a1,A.ai(B.j,new A.a8("assets/images/c1.jpg",a1,a1)),a1,a1,a1,a1,B.i),b6.a.b*0.8,a1,a1,1/0)
 s=b7.C(b5).f
 s=A.a5(a1,a1,a1,a1,new A.a2(a1,A.ai(B.j,new A.a8("assets/images/c2.jpg",a1,a1)),a1,a1,a1,a1,B.i),s.a.b*0.8,a1,a1,1/0)
